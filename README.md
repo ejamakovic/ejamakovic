@@ -6,7 +6,7 @@
 ### Master of Electrical Engineering – Department of Computer Science and Informatics || Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/ermin-jamakovi%C4%87-5a563130b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermin-jamaković-5a563130b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ermin5kaka@gmail.com)
 
 </div>
