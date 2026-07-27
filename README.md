@@ -62,14 +62,6 @@ ranking algorithm.
 My master thesis. Working with open source LLMs, fine tunning them on specific dataset.
 `Python` `LORA/QLORA FT`
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ejamakovic&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejamakovic&layout=compact&hide_border=true)
-
-</div>
 
 <div align="center">
 
