@@ -52,7 +52,7 @@
 ### 🚀 Featured Projects
 
 
-#### 💬 Piši Briši — Real-Time Chat & Social Platform [BE] (https://github.com/ejamakovic/chatapp_BE) | [FE] (https://github.com/ejamakovic/Messenger-app)
+#### 💬 Piši Briši — Real-Time Chat & Social Platform [BE](https://github.com/ejamakovic/chatapp_BE) | [FE](https://github.com/ejamakovic/Messenger-app)
 Full-stack real-time chat app with 1:1/group/global messaging, live reactions, threaded
 replies, JWT auth with refresh rotation, and a built-in social feed with a time-decayed
 ranking algorithm.
