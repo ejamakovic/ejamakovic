@@ -54,12 +54,11 @@
 
 #### 💬 Piši Briši — Real-Time Chat & Social Platform [BE](https://github.com/ejamakovic/chatapp_BE) | [FE](https://github.com/ejamakovic/Messenger-app)
 Full-stack real-time chat app with 1:1/group/global messaging, live reactions, threaded
-replies, JWT auth with refresh rotation, and a built-in social feed with a time-decayed
-ranking algorithm.
+replies. Basic social platform.
 `Java` `Spring Boot` `WebSocket` `Spring Security` `React` `TypeScript` `Docker`
 
 #### 🔧 [Fine tunning open source LLM](https://github.com/ejamakovic/Fine_tuning_LLM)
-My master thesis. Working with open source LLMs, fine tunning them on specific dataset.
+My master thesis. Fine tunning open source LLM on specific dataset.
 `Python` `LORA/QLORA FT`
 
 
